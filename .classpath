@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/ant.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/ant-apache-log4j.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/ant-commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/axis.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/commons-daemon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/easymock-3.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/ecj-4.6.3.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/org.eclipse.jdt.core_3.8.3.v20130121-145325.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/tomcat-jasper-8.0.24.jar"/>
+	<classpathentry kind="lib" path="E:/AI/kindsofLIB/tomcatLIBS/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
